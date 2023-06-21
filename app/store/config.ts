@@ -92,11 +92,11 @@ export const ALL_MODELS = [
   },
   {
     name: "gpt-3.5-turbo-16k",
-    available: true,
+    available: false,
   },
   {
     name: "gpt-3.5-turbo-16k-0613",
-    available: true,
+    available: false,
   },
   {
     name: "qwen-v1", // 通义千问
